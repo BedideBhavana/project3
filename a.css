@@ -1,0 +1,23 @@
+.boxes{
+    display: flex;
+    justify-content: space-between;
+
+  }
+.box1,.box4{
+    /* row-gap: 30%; */
+    height:140%;
+    width:40%;
+   background-color:white;
+    
+      }
+      
+.x,.w{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+  }
+  .cards{
+    background-color:aliceblue;
+    width: 100vw;
+    height: 100vh;
+  }
